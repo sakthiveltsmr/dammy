@@ -7,6 +7,8 @@ let main=document.getElementsByTagName("body")
         console.log("haii hello");
        const div=document.createElement('div')
         div.innerHTML=`<p>haii</p>`
+        
+        return div
     }   
 }
  )
