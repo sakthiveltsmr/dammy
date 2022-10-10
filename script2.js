@@ -14,7 +14,7 @@ const cookieStorage = {
 
 window.onmouseout=(event)=>{
     const storageType = cookieStorage;
-    const consentPropertyName = 'pops';
+    const consentPropertyName = 'exit';
     const shouldShowPopup = () => !storageType.getItem(consentPropertyName);
     const saveToStorage = () => storageType.setItem(consentPropertyName, true);
 
