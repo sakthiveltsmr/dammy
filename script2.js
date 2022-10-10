@@ -98,7 +98,7 @@ window.onmouseout=(event)=>{
          let main= document.getElementById('root')
         
            const data=document.createElement('div')
-           data.innerHTML=(` <div id="Template-One" style="background-color: rgb(142, 142, 65); margin-left:10px font-family: 'Roboto Slab', serif; width: 200px; margin-top: 300px; margin-right: auto; margin-bottom:0px; padding-top: 45px; padding-right: 65px; padding-bottom: 65px; padding-left: 0px; box-sizing: border-box; position: relative; box-shadow: rgba(50, 50, 50, 0.52) 0px 10px 20px 0px; background: #8E8E41 url(images/freedownloads.jpg) no-repeat center center; background-size: cover;">
+           data.innerHTML=(` <div id="Template-One" style="background-color: rgb(142, 142, 65); margin-left:10px font-family: 'Roboto Slab', serif; width: 200px; margin-top: 200px; margin-right: auto; margin-bottom:0px; padding-top: 45px; padding-right: 65px; padding-bottom: 65px; padding-left: 0px; box-sizing: border-box; position: relative; box-shadow: rgba(50, 50, 50, 0.52) 0px 10px 20px 0px; background: #8E8E41 url(images/freedownloads.jpg) no-repeat center center; background-size: cover;">
            <label>
            Coupon popups</label>
            <p>50% Diwali Offer</p></div>`)
