@@ -178,3 +178,18 @@ window.onmouseout=(event)=>{
  })
     
  }, 1000);
+
+
+setTimeout(()=>{
+        let main = document.getElementById('root')
+        const data = document.createElement('div')
+        data.innerHTML = (`<div id="iapg" style="alignItem:center; top:0px; width:300px; height:100px; border:3px solid #03F; margin-left: 250px;
+        position: absolute">
+        <h1 style="color:#30F;"align="center">Banner popups</h1>
+        <p style="font-family:Arial, Helvetica, sans-serif; align:left; color:#F00;">40% Diwali offer</p>
+         </div>`)
+        main.append(data)
+     return main
+    }
+
+ ,1000)
