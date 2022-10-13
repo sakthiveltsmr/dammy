@@ -1,5 +1,5 @@
    
-const popups=()=>{
+const Popups=()=>{
 let popups
     let entrytime
     let exittime
