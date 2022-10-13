@@ -1,4 +1,6 @@
-    let popups
+   
+const popups=()=>{
+let popups
     let entrytime
     let exittime
     var locationentry
@@ -86,6 +88,7 @@
         }
         }
            }
+}
 
         
     
