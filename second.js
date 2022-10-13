@@ -90,7 +90,7 @@ let popups
            }
 }
 
-        
+ Popups()
     
     
     
